@@ -33,4 +33,3 @@ In case of disagreements or conflicts, mediation based on open and respectful di
 
 ---
 This code of conduct seeks to balance individual freedom with mutual respect, promoting an environment where everyone can contribute and learn without unnecessary restrictions. Our guiding philosophy is **free software**, and our fundamental rule is consideration for others.
-
